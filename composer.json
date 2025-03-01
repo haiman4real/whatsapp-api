@@ -22,7 +22,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Emmaogunwobi\\WhatsappApi\\WhatsAppServiceProvider"
+                "Emmaogunwobi\\WhatsappApi\\Providers\\WhatsAppServiceProvider"
             ]
         }
     },
