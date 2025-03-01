@@ -3,9 +3,9 @@
     "description": "The whatsapp-notification package allows Laravel applications to send WhatsApp messages via Meta’s WhatsApp Cloud API. This package provides an easy-to-use service for sending template messages, handling API authentication, and managing message logging.",
     "type": "library",
     "require": {
-        "php": "^8.3",
-        "laravel/framework": "^12.0",
-        "illuminate/support": "^12.0"
+        "php": ">=8.0",
+        "laravel/framework": "^10.0 || ^11.0",
+        "illuminate/support": "*"
     },
     "license": "MIT",
     "autoload": {
